@@ -1,5 +1,9 @@
 ### Hi there I am Gopi Kannedhara👋
 
+  🔭  I build data platform and pipelines
+  👯  I’m looking to contribute to open source platforms
+  🌱  Building products on my own
+  
 <!--
 **Kannedhara/kannedhara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
