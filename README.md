@@ -25,13 +25,4 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-gopikannedhara@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gopikannedhara@gmail.com)](mailto:gopikannedhara@gmail.com)
 
 ⚡ Tech Stack
-![](https://img.shields.io/badge/DB-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/DB-BigQuery-informational?style=flat&logo=google-cloud&logoColor=white&color=6aa6f8)
 
-![](https://img.shields.io/badge/Tools-Apache--Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=spark&logoColor=white&color=6aa6f8)
